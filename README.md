@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Nadeera Sithmini
 
-<!--
-**Nadeera-Sithmini/Nadeera-Sithmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 HNDIT Student at SLIATE
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently studying HNDIT at SLIATE
+* 💻 Interested in Software Development
+* 🌱 Learning Java, Python, Laravel and Machine Learning
+* 🚀 Building projects to improve my programming skills
+
+## 🛠️ Skills
+
+* Java
+* Python
+* HTML
+* CSS
+* JavaScript
+* MySQL
+* Git & GitHub
+
+## 📂 Projects
+
+### Smart Stock Inventory System
+
+Inventory management system for stock control.
+
+### Web Development Projects
+
+Responsive websites using modern web technologies.
+
+
+## 🎯 Goals
+
+* Complete HNDIT successfully
+* Become a Software Engineer
+* Build real-world software projects
+* Contribute to open-source projects
+
+## 📫 Contact
+
+* GitHub: https://github.com/Nadeera-Sithmini
+
+⭐ Thank you for visiting my profile!
