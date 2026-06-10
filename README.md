@@ -33,6 +33,10 @@ Responsive websites using modern web technologies.
 ## 🎯 Goals
 
 * Complete HNDIT successfully
+
+### 📊 GitHub Stats
+![Nadeera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadeera-Sithmini&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeera-Sithmini&layout=compact&theme=dark)
 * Become a Software Engineer
 * Build real-world software projects
 * Contribute to open-source projects
