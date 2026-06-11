@@ -6,7 +6,7 @@
 
 * 🎓 Currently studying HNDIT at SLIATE
 * 💻 Interested in Software Development
-* 🌱 Learning Java, Python, Laravel and Machine Learning
+* 🌱 Learning Java, Python, Laravel and Flutter
 * 🚀 Building projects to improve my programming skills
 
 ## 🛠️ Skills
