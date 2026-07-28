@@ -112,13 +112,19 @@ An inventory management system designed to help manage and monitor stock informa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Nadeera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadeera-Sithmini\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeera-Sithmini\&layout=compact\&theme=dark)
+I actively use GitHub to build projects, learn new technologies, and improve my software development skills.
 
 ---
+
+## 🎯 Current Focus
+
+- 📱 Flutter Mobile App Development
+- 🌐 Full-Stack Web Development
+- 🔥 Firebase & Cloud Technologies
+- 🗄️ MySQL & Database Management
+- ☁️ AWS & Cloud Computing
 
 ## 📫 Connect With Me
 
