@@ -67,13 +67,7 @@ I enjoy building practical, user-friendly applications and continuously improvin
 
 ## 📂 Featured Projects
 
-### 📱 Doctor Appointment App
 
-A mobile application developed using Flutter and Firebase to help users find doctors and manage doctor appointments.
-
-**Technologies:** Flutter | Dart | Firebase
-
----
 
 ### 📱 Smart Campus App
 
