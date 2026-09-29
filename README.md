@@ -1,132 +1,83 @@
-# Hi 👋, I'm Nadeera Sithmini
+# Hi 👋, I'm Nadeera Weerasinghe
 
-### 💻 Flutter Mobile App Developer | Full-Stack Developer | HNDIT Student at SLIATE
+### 💻 Full-Stack Developer | Web (PHP/Laravel/Java) & Mobile (Flutter/Firebase)
 
-I am an HNDIT student at the Sri Lanka Institute of Advanced Technological Education (SLIATE), passionate about Mobile App Development and Full-Stack Development.
+Information Technology undergraduate (HNDIT) at the Sri Lanka Institute of Advanced Technological Education (SLIATE), Badulla. I build web applications and cross-platform mobile apps, design MySQL database schemas, integrate REST APIs and implement secure, role-based authentication end to end.
 
-I enjoy building practical, user-friendly applications and continuously improving my programming and software development skills through real-world projects.
+🌐 **Portfolio:** [nadeera-sithmini.github.io/my-portfolio](https://nadeera-sithmini.github.io/my-portfolio)
+📄 **CV:** [Download my CV](https://nadeera-sithmini.github.io/my-portfolio/CV_Nadeera_Weerasinghe.pdf)
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Currently studying HNDIT at SLIATE
-* 📱 Passionate about Flutter Mobile App Development
-* 🌐 Interested in Full-Stack Web Development
-* 🔥 Experienced with Firebase and Cloud Firestore
-* 🗄️ Interested in Database Management using MySQL
-* 🎨 Interested in UI/UX Design
-* 🚀 Continuously learning and building real-world projects
-* 💡 Passionate about learning new technologies and solving problems through software
+* 🎓 HNDIT undergraduate at SLIATE Badulla (NVQ Level 6)
+* 📱 Building cross-platform mobile apps with Flutter, Firebase and Cloud Firestore
+* 🌐 Building web applications with Laravel and Java (JSP/Servlets)
+* 🗄️ Designing MySQL schemas, migrations and relational queries
+* ☁️ AWS Certified: Amazon Q Developer Fundamentals
+* 💼 Looking for a Software Engineering internship where I can contribute across the stack and keep growing
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👩‍💻 Programming Languages
+| Area | Technologies |
+| --- | --- |
+| 🌐 Web and backend | PHP, Laravel, Eloquent ORM, Blade, Java, JSP, Servlets, REST APIs, JavaScript, HTML5, CSS3 |
+| 📱 Mobile | Flutter, Dart, Firebase Authentication, Cloud Firestore, Firebase Storage |
+| 🗄️ Databases | MySQL, SQL schema design, database migrations, relational queries |
+| 🔧 Tools | Git, GitHub, Composer, npm, VS Code, Android Studio, Postman |
+| 🧠 Concepts | OOP, MVC architecture, Role-Based Access Control (RBAC), authentication and session management, SDLC |
 
-* Dart
-* Java
-* JavaScript
-* C#
-* PHP
-* Python
-
-### 📱 Mobile App Development
-
-* Flutter
-* Dart
-* Firebase
-* Cloud Firestore
-
-### 🌐 Web Development
-
-* HTML
-* CSS
-* JavaScript
-* PHP
-
-### 🗄️ Databases
-
-* MySQL
-* Firebase / Cloud Firestore
-
-### 🔧 Tools & Technologies
-
-* Git
-* GitHub
-* Visual Studio Code
-* Android Studio
-
-### 🎨 UI/UX Design
-
-* Figma
-* Canva
+Also worked with: C#, Python, Figma, Canva
 
 ---
 
 ## 📂 Featured Projects
 
+### 📱 [Smart Campus](https://github.com/Nadeera-Sithmini/Smart-Campus-Multi-Role-Campus-Management-App)
+Cross-platform campus management app with three roles (Admin, Faculty, Student). Cloud Firestore powers real-time announcements, attendance and timetable sync, with Firebase authentication and role-based navigation guards.
+**Tech:** Flutter | Dart | Firebase | Cloud Firestore
 
+### 🛍️ [Lumea Cosmetics](https://github.com/Nadeera-Sithmini/lumea-cosmetics)
+Full-stack cosmetics e-commerce web application built with MVC architecture, migrations, Eloquent ORM and Blade views.
+**Tech:** PHP | Laravel | MySQL | Blade | JavaScript | Vite
 
-### 📱 Smart Campus App
+### 🎓 [EduSmartPro](https://github.com/Nadeera-Sithmini/EduSmartPro)
+Education management system that automates student enrollment, course allocation and result tracking, with a relational MySQL design and secure session-based multi-tier logins.
+**Tech:** Java Servlets | JSP | MySQL | JavaScript
 
-A mobile application designed to provide useful campus-related services and information for students.
-
-**Technologies:** Flutter | Dart | Firebase
+### 📦 [Smart Stock Inventory](https://github.com/Nadeera-Sithmini/Smart-Stock-Inventory)
+Inventory management system with automated stock tracking, real-time alerts and MySQL-backed sales reporting.
+**Tech:** Java | JSP | MySQL | HTML | CSS
 
 ---
 
-### 🌐 Smart Student Registration System
+## 🏅 Certifications
 
-A web-based student registration and management system designed to manage student information efficiently.
-
-**Technologies:** HTML | CSS | JavaScript | PHP | MySQL
-
----
-
-### 📦 Smart Stock Inventory System
-
-An inventory management system designed to help manage and monitor stock information efficiently.
-
-**Technologies:** Java | MySQL
+* AWS Amazon Q Developer Fundamentals Training Badge, Amazon Web Services (issued Jul 2026)
+* Flutter Course Certificate, DP Education IT Campus
 
 ---
 
 ## 🎯 Current Goals
 
-* 🚀 Improve my Flutter Mobile App Development skills
-* 🌐 Develop my Full-Stack Development skills
-* 📚 Learn REST APIs and advanced application architecture
-* ☁️ Improve my knowledge of Cloud Technologies and AWS
-* 💼 Gain professional experience through an internship
-* 🛠️ Build and deploy real-world software applications
+* 🚀 Grow my Flutter and Laravel skills through real-world projects
+* 📚 Learn advanced REST API design and application architecture
+* ☁️ Deepen my knowledge of cloud technologies and AWS
+* 💼 Gain professional experience through a Software Engineering internship
 * 🤝 Contribute to open-source projects
-* 👨‍💻 Grow as a professional Software Engineer
 
 ---
-
-## 📊 GitHub Activity
-
-I actively use GitHub to build projects, learn new technologies, and improve my software development skills.
-
----
-
-## 🎯 Current Focus
-
-- 📱 Flutter Mobile App Development
-- 🌐 Full-Stack Web Development
-- 🔥 Firebase & Cloud Technologies
-- 🗄️ MySQL & Database Management
-- ☁️ AWS & Cloud Computing
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/nadeera-sithmini/
+* 🌐 Portfolio: https://nadeera-sithmini.github.io/my-portfolio
+* 💼 LinkedIn: https://www.linkedin.com/in/nadeera-sithmini
 * 🐙 GitHub: https://github.com/Nadeera-Sithmini
+* 📧 Email: sithmininadeera@gmail.com
 
 ---
 
-⭐ Thank you for visiting my profile!
-
-💡 Feel free to explore my repositories and projects.
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and projects.
